@@ -3,6 +3,7 @@
 # A template from Google[https://github.com/GoogleCloudPlatform/microservices-demo] Microservices kubernetes project
 
 ## Expectation
+#This is me modifying the readme feature of the application.
 Using the Template from Google, Each teams are to achieve the following: Write your deployment plan and pipeline to complete the following
 - on git push/commit you project should deploy to a kubernetes cluster
 
